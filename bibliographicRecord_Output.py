@@ -386,8 +386,6 @@ class bibliographicRecord :
             if key == 'O' : continue
             print key + '\t' + ' '.join(recode[key])
 
-
-os.system('cp ../Data/dataset/dataset2 ./Testfile')
 if __name__ == '__main__' :
     Train=Train('Train','../Data/dataset')
     Train.makefile()
