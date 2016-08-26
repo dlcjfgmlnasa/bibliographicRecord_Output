@@ -1,0 +1,74 @@
+J. Korean Soc. Living Environ. Sys.
+Vol. 19, No. 6, pp 689~696(2012)
+
+한국생활환경학회지
+제 19 권 제 6 호 2012년
+
+건축물조명의 휘도분석을 통한 미디어파사드의
+빛공해 관리방안 마련 연구
+서영석*·오민석*·김회서*
+*단국대학교 건축공학과
+
+A Study on the Light Pollution Management of Media Facades through
+Luminance Analysis of Architectural Lightings
+Young-Seok Seo*, Min-Seok Oh* and Hway-Suh Kim*
+*Department of Architecture, Dankook University, Gyeonggi, Korea
+
+Abstract : In domestic, it defines the rules used to implement 'The Light Pollution' about the senseless outdoor lighting on
+February this year. However, there are only general standards to regulate the light pollution. Therefore, it is imperative to
+setup the database and classify the types of lightings so as to apply the light pollution standards to the media façades. Finally,
+this study suggests a viable lighting pollution regulation for the installation and management of the architectural lightings.
+Key words : Light pollution, Lighting type, Media facade, Building facade luminance
+
+1. 서
+
+론
+
+따라서, 본 연구에서는 빛공해 방지법에서 제시하고
+있는 대상물 중 건축물조명을 중심으로 국내에 설치된
+건축물 조명의 조명방식을 분류하고 이에 따른 휘도분
+석을 실시함으로써, 건축물 조명의 표면휘도 기준에
+대한 조명방식별 근거데이터를 마련하고, 아울러 미디
+어파사드의 빛공해 관리기준의 적용여부를 평가하여,
+건축물 조명의 설치 및 관리에 있어 실질적으로 빛공
+해를 저감하기 위한 관리방안을 제안하고자 한다.
+
+1.1. 연구 배경 및 목적
+환경부에서는 빛공해에 대한 국민적 인식확산 및 에
+너지 절약에 대한 노력의 일환으로 2012년 2월 ‘인공
+조명에 의한 빛공해 방지법’을 제정하였으며, 이로써
+국내에서도 야간경관계획을 포함하여 그간 무절제하
+고 경쟁적으로 설치·사용되어온 옥외조명기구를 체계
+적으로 관리할 수 있는 제도적 장치가 마련되었다.
+하지만, 현재 빛공해 방지법에서 제시하고 있는 빛
+공해 관리기준은 토지용도에 따라 조명환경관리구역
+을 지정하고, 관리구역별 대상물의 표면휘도기준과 빛
+공해 가이드라인을 제시하는 수준에 머물러 있으며,
+향후 조명기구의 종류 또는 조명방식에 대한 관리기준
+의 정량적인 근거자료와 최근 보급이 확대되고 있는
+미디어파사드에 대한 관리기준의 적용성 평가는 미흡
+한 실정이다.
+
+1.2. 연구 범위
+본 연구에서는 건축물 조명을 조명방식별로 분류하
+여 각 조명방식에 따른 관리기준의 적합성 여부를 판
+단하고자 하였으며, 현재 국내에 설치된 건축물 조명
+방식을 조명연출방법에 따라 점,선,면 그리고 미디어
+파사드로 분류하였다. 또한, 일반적으로 건축물조명의
+대부분이 용도지역상 주거지역 또는 상업지역에 분포
+하고 있어, 본 연구에서는 제 3,4종 조명환경관리구역
+을 중심으로 측정 및 분석을 진행하였다.
+건축물 조명의 휘도분석에 관한 연구는 선행 연구를
+통하여 다수 이루어 진 바 있으나, 현재까지의 표면휘
+도 분석 연구는 조명환경관리구역의 설정을 위한 토지
+
+교신저자: 오민석(우448-701) 경기도 용인시 수지구 죽전동
+단국대학교 건축공학과
+전화번호 : 031-8005-3749,
+E-mail：citrohan@dankook.ac.kr
+
+689
+
+경성대학교 | IP: 210.110.180.*** | Accessed 2016/08/09 03:12(KST)
+
+
