@@ -35,7 +35,6 @@ class CRF_Train :
                 oF.write(line+'\n')
             oF.write(gram)
 
-
 class CRF_Test :
     Testfile='./Testfile'
     __metaclass__ = ABCMeta
@@ -110,7 +109,6 @@ class Parent_Addfeature :
     def filewrite(self,Temp) :
         with open(self.fileName,'w') as oF :
             for line in Temp : oF.write(line+'\n')
-
 
     def addCount(self) : self.fcount=self.fcount+1
     def getCount(self) : return self.fcount
